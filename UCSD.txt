@@ -1,0 +1,150 @@
+Accounting Minor: Rady School of Management		Busac186		Busac187																																													
+Anthropology B.A. with Concentration in Archaeology		Anthr125																																															
+Anthropology B.A. with Concentration in Biological Anthropology		Anthr140																																															
+Anthropology B.A. with Concentration in Climate Change and Human Solutions		No Course Articulated																																															
+Anthropology B.A. with Concentration in Sociocultural Anthropology		Anthr130																																															
+Anthropology: Biological Anthropology B.S.		Anthr130		Biosc130		Biosc131		Chem120		Chem121		Math182		Math183		Math192		Math193	Math292		Math142		Psych101																										
+Bioengineering B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys130		Phys231	Engin136		Biosc130		Biosc131		Chem120		Chem121																						
+Bioengineering: Bioinformatics B.S.		Biosc130		biosc131		Chem120		Chem121		Comsc200		Comsc110		Comsc171		Comsc255		Comsc210	Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231																
+Bioengineering: BioSystems B.S.		Chem120		Chem121		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230	Phys231																														
+Bioengineering: Biotechnology B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231		Engin136	Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227																				
+Biology with a Specialization in Bioinformatics B.S.		Biosc130		Biosc131		Math194		Math192		Math193		Math292		Chem120		Chem121		Chem226	Chem227		Comsc110		Comsc171		Comsc255		Comsc210		Comsc200		Phys130		Phys230		Phys231														
+Biology: Ecology, Behavior, and Evolution B.S.		Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227		Math182		Math183		Math142	Math192		Math193		Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231														
+Biology: General Biology B.S.		Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227		Math182		Math183		Math142	Math192		Math193		Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231														
+Biology: Human Biology B.S.		Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227		Math182		Math183		Math142	Math192		Math193		Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231														
+Biology: Microbiology B.S.		Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227		Math182		Math183		Math142	Math192		Math193		Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231														
+Biology: Molecular and Cell Biology B.S.		Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227		Math182		Math183		Math142	Math192		Math193		Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231														
+Biology: Neurobiology		Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227		Math182		Math183		Math142	Math192		Math193		Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231														
+Business Minor: Rady School of Management		Busac186		Busac187																																													
+Chemistry and Biochemistry: Biochemistry/Chemistry B.S.		Chem120		Chem121		Chem226		Chem227		Math192		Math193		Math292		Math294		Phys130	Phys230		Phys231																												
+Chemistry and Biochemistry: Chemistry B.S.		Chem120		Chem121		Chem226		Chem227		Math192		Math193		Math292		Math294		Phys130	Phys230		Phys231																												
+Chemistry and Biochemistry: Environmental Chemistry B.S.		Chem120		Chem121		Chem226		Chem227		Math192		Math193		Math292		Math294		Phys130	Phys230		Phys231																												
+Chemistry and Biochemistry: Molecular Synthesis B.S.		Chem120		Chem121		Chem226		Chem227		Math192		Math193		Math292		Math294		Phys130	Phys230		Phys231																												
+Chemistry and Biochemistry: Pharmacological Chemistry B.S.		Chem120		Chem121		Chem226		Chem227		Math192		Math193		Math292		Math294		Phys130	Phys230		Phys231																												
+Chinese Studies B.A.		Chin120		Chin121		Chin220		Chin221																																									
+Classical Studies B.A.		No Course Articulated																																															
+Cognitive Science B.A.		Math182		Math183		Math192		Math193		Math194		Psych215		Psych130		Comsc110		Comsc200																															
+Cognitive Science B.S.		Math182		Math183		Math192		Math193		Math194		Psych215		Math142		Psych130		Comsc110	Comsc200																														
+Cognitive Science B.S. Specialization in Clin Aspcts of Cogn		Math182		Math183		Math192		Math193		Math194		Psych215		Math142		Psych130		Comsc110	Comsc200																														
+Cognitive Science B.S. Specialization in Design and Interaction		Math182		Math183		Math192		Math193		Math194		Psych215		Math142		Psych130		Comsc110	Comsc200																														
+Cognitive Science B.S. with Specialization in Language and Culture		Math182		Math183		Math192		Math193		Math194		Psych215		Math142		Psych130		Comsc110	Comsc200																														
+Cognitive Science B.S. with Specialization in Machine Learning and Neural Computation		Math182		Math183		Math192		Math193		Math194		Psych215		Math142		Psych130		Comsc110	Comsc200																														
+Cognitive Science B.S. with Specialization in Neuroscience		Math182		Math183		Math192		Math193		Math194		Psych215		Math142		Psych130		Comsc110	Comsc200																														
+Cognitive Science: Cognitive and Behavioral Neuroscience B.S.		Psych130		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121	Chem109		Phys120		Phys121		Phys124		Phys125		Phys130		Phys230		Phys110		Math182	Math192	Math183	Math193	Math292	Psych215	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Math142			
+Communication B.A.		No Course Articulated																																															
+Critical Gender Studies B.A.		Socio124																																															
+CSE: Computer Engineering B.S.		Comsc110		Comsc171		Comsc255		Comsc200		Comsc210		Math195		Comsc260		Math194		Math192	Math193		Math292		Math294		Phys130		Phys230		Phys231																				
+CSE: Computer Science with a Specialization in Bioinformatics B.S.		Biosc130		Biosc131		Chem120		Chem121		Chem226		Chem227		Comsc110		Comsc171		Comsc255	Comsc200		Comsc210		Comsc260		Math194		Math192		Math193		Math292		Phys130																
+Dance B.A.		Drama200		Drama201		Dance201		Dance250																																									
+Data Science B.S.		Math192		Math193		Math292		Biosc130		Biosc131		Chem120		Chem121		Phys130		Phys230	Phys231																														
+Earth Sciences B.S.		Biosc130		Biosc131		Geol121		Geol124		Chem120		Chem121		Math192		Math193		Math292	Math294		Phys130		Phys230		Phys231																								
+ECE: Computer Engineering B.S.		Comsc110		Comsc171		Comsc255		Comsc200		Comsc210		Math195		Comac260		Math194		Math192	Math193		Math292		Math294		Phys130		Phys230		Phys231																				
+ECE: Electrical Engineering and Society B.A.		Chem120		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231	Hist125		Hist150		Hist151		Econ221		Busac186		Polsc121		Polsc220		Polsc250		Polsc240	Socio120	Socio121												
+ECE: Electrical Engineering B.S.		Chem120		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231																															
+ECE: Engineering Physics B.S.		Chem120		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231																															
+Economics B.A.		Math192		Math193		Math292		Math182		Math183		Econ221		Econ220																																			
+Economics: Joint Major in Mathematics and Economics B.S.		Math194		Math192		Math193		Math292		Math294		Econ221		Econ220																																			
+Economics: Management Science B.S.		Math194		Math192		Math193		Math292		Busac186		Econ221		Econ220																																			
+Education Sciences B.S.		Socio123																																															
+Environmental Systems/Earth Sciences B.S.		Biosc130		Biosc131		Geol121		Geol124		Math192		Math193		Math292		Math294		Chem120	Chem121		Phys130		Phys230		Phys231		Econ221																						
+Environmental Systems/Ecology, Behavior, and Evolution B.S.		Biosc130		Biosc131		Math182		Math183		Math142		Chem120		Chem121		Phys120		Phys121	Phys124		Phys125		Econ221																										
+Environmental Systems/Environmental Chemistry B.S.		Biosc130		Biosc131		Math192		Math193		Math292		Math294		Chem120		Chem121		Chem226	Chem227		Phys130		Phys230		Phys231		Econ221																						
+Environmental Systems/Environmental Policy B.A.		Biosc130		Biosc131		Math182		Math183		Math142		Chem120		Chem121		Phys120		Phys121	Phys124		Phys125		Econ221																										
+Ethnic Studies B.A.		Socio135																																															
+German Studies B.A.		Grman120		Grman121		Grman220		Grman221		Grman230		Grman231																																					
+Global Health B.A.		Anthr140		Biosc130		Biosc131		Biosc170		Nutri160		Biosc140		Psych130		Math142																																	
+Global Health B.S.		Psych101		Biosc130		Biosc131		Chem120		Chem121		Math182		Math183		Math192		Math193	Math142																														
+History B.A.		Hist120		Hist121		Hist125		Hist150		Hist151																																							
+Human Developmental Sciences B.A.		Math142		Math182		Math183		Math192		Math193		Math292		Philo170		Anthr140		Biosc130	Biosc131		Biosc101		Biosc102		Biosc170		Biosc140		Psych130		Anthr130		Anthr125		Hist125	Psych101	Socio120												
+Human Developmental Sciences B.S.		Math142		Anthr140		Biosc130		Biosc131		Biosc140		Psych130		Math182		Math183		Math192	Math193		Math292		Comsc110		Comsc200		Anthr130		Anthr125		Hist125		Psych101		Psych130	Socio120													
+Human Developmental Sciences B.S. with Specialization in Equity & Diversity		Math142		Anthr140		Biosc130		Biosc131		Biosc140		Psych130		Math182		Math183		Math192	Math193		Math292		Comsc110		Comsc200		Anthr130		Anthr125		Hist125		Psych101		Psych130	Socio120													
+Human Developmental Sciences B.S. with Specialization in Healthy Aging		Math142		Anthr140		Biosc130		Biosc131		Biosc140		Psych130		Math182		Math183		Math192	Math193		Math292		Comsc110		Comsc200		Anthr130		Anthr125		Hist125		Psych101		Psych130	Socio120													
+International Studies - Anthropology B.A.		Chin220		Frnch220		Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230	Span231																														
+International Studies - Economics B.A.		Math182		Math183		Math192		Math193		Math292		Econ221		Econ220		Chin220		Frnch220	Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230		Span231																
+International Studies - History B.A.		Chin220		Frnch220		Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230	Span231																														
+International Studies - International Business B.A.		Math182		Math183		Math192		Math193		Math292		Busac186		Busac187		Chin220		Frnch220	Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230		Span231																
+International Studies - Linguistics B.A.		Chin220		Frnch220		Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230	Span231																														
+International Studies - Literature B.A.		Chin220		Frnch220		Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230	Span231																														
+International Studies - Philosophy B.A.		Philo170		Chin220		Frnch220		Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221	Span230		Span231																												
+International Studies - Political Science B.A.		Chin220		Frnch220		Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230	Span231																														
+International Studies - Sociology B.A.		Chin220		Frnch220		Frnch221		Grman220		Grman221		Ital220		Russ220		Russ221		Span230	Span231																														
+Italian Studies B.A.		Ital120		Ital121		Ital220		Ital221		Ital230		Ital231																																					
+Japanese Studies B.A.		Japan221		Hist150		Hist151																																											
+Jewish Studies B.A.		No Course Articulated																																															
+Latin American Studies B.A.		Span230		Span231																																													
+Linguistics B.A.		No Course Articulated																																															
+Linguistics with Specialization in Cognition and Language B.A.		No Course Articulated																																															
+Linguistics with Specialization in Language and Society B.A.		No Course Articulated																																															
+Linguistics with Specialization in Speech and Language Sciences B.A.		Math142		Math142																																													
+Linguistics: Language Studies Specialization in one language B.A.		No Course Articulated																																															
+Literature: Spanish Literature B.A.		Span230		Span231		Engl252		Engl253		Engl262		Engl263		Engl166		Engl163		Engl167	Frnch220		Frnch221		Grman220		Grman221		Grman230		Grman231		Ital220		Ital221		Ital230	Ital231	Russ120	Russ121	Russ220	Russ221	Sign280	Sign281	Sign282						
+Literature: World Literature and Culture B.A.		Socsc123		Engl252		Engl253		Engl262		Engl263		Engl166		Engl163		Engl167		Frnch220	Frnch221		Grman220		Grman221		Grman230		Grman231		Ital220		Ital221		Ital230		Ital231	Russ120	Russ121	Russ220	Russ221	Span230	Span231								
+Literature/Writing B.A.		Engl252		Engl253		Engl262		Engl263		Engl166		Engl163		Engl167		Engl224		Frnch220	Frnch221		Grman220		Grman221		Grman230		Grman231		Ital220		Ital221		Ital230		Ital231	Russ120	Russ121	Russ220	Russ221	Span230	Span231	Sign280	Sign281	Sign282					
+Literatures in English B.A.		Engl252		Engl253		Engl262		Engl263		Engl166		Engl163		Engl167		Frnch220		Frnch221	Grman220		Grman221		Grman230		Grman231		Ital220		Ital221		Ital230		Ital231		Span230	Span231	Russ120	Russ121	Russ220	Russ221	Sign280	Sign281	Sign282						
+MAE: Aerospace Engineering B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231		Engin136	Chem120																														
+MAE: Environmental Engineering B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231		Engin136	Chem120		Chem121																												
+MAE: Mechanical Engineering B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231		Engin136	Engin240		Chem120																												
+Marine Biology B.S.		Biosc130		Biosc131		Chem120		Chem121		Math182		Math183		Math192		Math193		Math292	Phys120		Phys121		Phys124		Phys125		Phys130		Phys230		Phys231																		
+Mathematics B.S.		Math194		Math192		Math193		Math292		Math294																																							
+Mathematics: Applied Mathematics B.S.		Math194		Math192		Math193		Math292		Math294		Comsc200		Comsc110		Comsc171		Comsc255																															
+Mathematics: Joint Major in Mathematics and Economics B.S.		Math194		Math192		Math193		Math292		Math294		Econ220		Econ221																																			
+Mathematics: Probability and Statistics B.S.		Math194		Math192		Math193		Math292		Math294		Comsc200		Comsc110		Comsc171		Comsc255																															
+Mathematics: Scientific Computation B.S.		Math194		Math192		Math193		Math292		Math294		Math195		Comsc210		Comsc200		Comsc110	Comsc171		Comsc255																												
+Mathematics/Applied Science B.S.		Math194		Math192		Math193		Math292		Math294		Comsc200		Comsc110		Comsc171		Comsc255																															
+Mathematics/Computer Science B.S.		Math194		Math192		Math193		Math292		Math294		Comsc200		Comsc110		Comsc171		Comsc255	Comsc210		Comsc260																												
+Mathematics/Secondary Education B.A.		Math194		Math192		Math193		Math292		Math294		Comsc200		Comsc110		Comsc171		Comsc255																															
+Music B.A.		Music122		Music151		Music250																																											
+Music: Interdisciplinary Computing in the Arts Major (ICAM) B.A.		Music110		Music122		Comsc200		Comsc110		Comsc171		Comsc255		Math195		Math192		Math193	Math182		Math183																												
+Music/Humanities Major B.A.		Music122		Music123																																													
+NANO: Chemical Engineering B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231		Chem120	Chem121																														
+NANO: NanoEngineering B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231		Chem120	Chem121		Biosc130		Biosc131																										
+Oceanic and Atmospheric Sciences B.S.		Chem120		Chem121		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230	Phys231																														
+Philosophy B.A.		Philo170																																															
+Physics B.A.		Physc130		Physc230		Physc231		Math194		Math192		Math193		Math292		Math294		Comsc260	Biosc130		Biosc131		Chem120		Chem121																								
+Physics B.A. Secondary Education		Physc130		Physc230		Physc231		Chem120		Chem121		Math194		Math192		Math193		Math292	Math294		Geol121		Geol124																										
+Physics B.S.		Physc130		Physc230		Physc231		Chem120		Math194		Math192		Math193		Math292		Math294																															
+Physics B.S. with Specialization in Astrophysics		Physc130		Physc230		Physc231		Chem120		Math194		Math192		Math193		Math292		Math294																															
+Physics B.S. with Specialization in Biophysics		Physc130		Physc230		Physc231		Chem120		Chem121		Biosc130		Biosc131		Math194		Math192	Math193		Math292		Math294																										
+Physics B.S. with Specialization in Computational Physics		Physc130		Physc230		Physc231		Chem120		Math194		Math192		Math193		Math292		Math294																															
+Physics B.S. with Specialization in Earth Sciences		Physc130		Physc230		Physc231		Chem120		Chem121		Math194		Math192		Math193		Math292	Math294		Geol121		Geol124																										
+Physics B.S. with Specialization in Materials Physics		Physc130		Physc230		Physc231		Chem120		Chem121		Math194		Math192		Math193		Math292	Math294																														
+Political Science B.A.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Political Science/American Politics B.A.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Political Science/Comparative Politics B.A.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Political Science/Data Analytics B.S.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Political Science/International Relations B.A.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Political Science/Political Theory B.A.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Political Science/Public Law B.A.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Political Science/Public Policy B.A.		Polsc121		Polsc220		Polsc250		Polsc240																																									
+Psychology B.A.		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math192	Philo170	Comsc101	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology B.S.		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology B.S. with a Specialization in Clinical Psychology		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology B.S. with a Specialization in Cognitive Psychology		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology B.S. with a Specialization in Developmental Psychology		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology B.S. with a Specialization in Human Health		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology B.S. with a Specialization in Sensation and Perception		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology B.S. with a Specialization in Social Psychology		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Psych215	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142
+Psychology: Business Psychology B.S.		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych130	Math182	Math183	Math192	Math193	Comsc165	Engin135	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Engin136	Math142	
+Psychology: Cognitive and Behavioral Neuroscience B.S.		Biosc130		Biosc131		Biosc101		Biosc102		Biosc140		Chem108		Chem120		Chem121		Chem109	Phys120		Phys124		Phys121		Phys125		Phys130		Phys230		Phys231		Phys110		Psych215	Math182	Math183	Math192	Math193	Math292	Comsc110	Comsc171	Comsc255	Comsc200	Comsc210	Math142			
+Public Health B.S.		Biosc130		Biosc131		Biosc101		Biosc102		Psych130		Nutri160		Biosc140		Math142		Anthr130	Anthr140		Psych215		Socio123		Econ221		Polsc121		Polsc220		Psych101		Psych130		Psych225	Psych200	Socio120	Socio121											
+Real Estate and Development B.S.		Math182		Math192		Econ221		Busac186		Busac187																																							
+Religion, Study of B.A.		Philo220																																															
+Russian, East European, and Eurasian Studies B.A.		Russ120		Russ121		Russ220		Russ221																																									
+Sociology B.A.		Socio120		Socio121		Socio123																																											
+Sociology/American Studies B.A.		Socio120		Socio121		Socio123																																											
+Sociology/Culture and Communication B.A.		Socio120		Socio121		Socio123																																											
+Sociology/Economy and Society B.A.		Socio120		Socio121		Socio123																																											
+Sociology/International Studies B.A.		Socio120		Socio121		Socio123																																											
+Sociology/Law and Society B.A.		Socio120		Socio121		Socio123																																											
+Sociology/Science and Medicine B.A.		Socio120		Socio121		Socio123																																											
+Sociology/Social Inequalities B.A.		Socio120		Socio121		Socio123																																											
+Structural Engineering B.S.		Math194		Math192		Math193		Math292		Math294		Phys130		Phys230		Phys231		Chem120																															
+Theatre and Dance B.A.		Drama122		Dance250		Drama200		Drama201																																									
+Theatre B.A.		Drama122		Engl180		Drama139		Drama200		Drama201																																							
+Third World Studies B.A.		Engl167																																															
+Urban Studies and Planning B.A.		Geog125		Socio123		Math142																																											
+Visual Arts/Art History/Criticism B.A.		Arths197		Arths195		Arhts196		Arths193		Ftve280		Ftve281		Ftve282		Art102																																	
+Visual Arts/Interdisciplinary Computing in the Arts Major (ICAM) B.A.		Music110		Arths197		Comsc200		Comsc110		Comsc171		Comsc255		Math195		Math192		Math193	Math182		Math183		Art102																										
+Visual Arts/Media B.A.		Arths197		Ftve280		Ftve281		Ftve282		Art102		Arths195		Arths196		Arhts193																																	
+Visual Arts/Speculative Design B.A.		Art102		Arths197		Psych215		Psych130		Comsc110		Comsc171		Comsc255		Comsc200		Comsc210																															
+Visual Arts/Studio B.A.		Arths197		Art102		Arths195		Arths196		Arths193		Ftve280		Ftve281		Ftve282		
