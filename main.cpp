@@ -192,6 +192,7 @@ int main()
             else if (choice == "1")
             {
                 showRequired();
+                cin.get();
                 break;
             }
             else if (choice == "2")
@@ -202,6 +203,7 @@ int main()
                 getline(cin, keyword);
                 gpa = atof(keyword.c_str());
                 checkMyGpa(gpa, schools[v_major.at(num * 2 - 2)][v_major.at(num * 2 - 1)]);
+                cin.get();
                 break;
             }
         }
@@ -392,7 +394,7 @@ vector<string> findMajor(string schoolName, char alphabet) {
 	fin.open(schoolName + ".txt");
 
 	if (!fin.good()) {
-		cout << "I/O error: Wrong school name";
+		cout << "I/O error: Wrong school name" << endl << end;
 		return vector<string>();
 	}
 
@@ -435,7 +437,7 @@ void printRequiremnet(string major) {
 	for (auto it = courses.begin(); it != courses.end(); it++) {
 		cout << *it << ", ";
 	}
-	cout << endl;
+	cout << endl << endl;
 }
 
 
