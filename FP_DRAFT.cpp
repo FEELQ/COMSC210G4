@@ -9,9 +9,13 @@ using namespace std;
 #include <iomanip>
 
 #include "FP_AssociativeArray.h"
+#include "DynamicArray.h"
 
 #include <algorithm> //
 
+struct reqCourses{
+    DynamicArray<string> courses;
+};
 
 struct Major
 {
@@ -28,13 +32,15 @@ struct Major
 
     string admitRate;
     string yieldRate;
+    reqCourses* requires;
 };
 
 
+
 // prototype
-void displayMajorInfo(AssociativeArray<string, AssociativeArray<string, Major>>& , vector<vector<string>>&, vector<string>);
-int menu(AssociativeArray<string, AssociativeArray<string, Major>>& , vector<vector<string>>&, vector<string>);
+vector<string> displayMajorInfo(AssociativeArray<string, AssociativeArray<string, Major>>& , vector<vector<string>>&, vector<string>);
 void specificInfo(AssociativeArray<string, AssociativeArray<string, Major>>& , string , string );
+void checkMyGpa(double , Major);
 
 //from 9
 void associativeBubbleSorting(AssociativeArray<int, string>&);
@@ -47,7 +53,11 @@ int main()
 
     AssociativeArray<string,string> filenames;
     filenames["UCB"] = "UC_Berkeley.txt";
-    filenames["UCLA"] = "UC_LosAngeles.txt"; // need to add all
+    filenames["UCLA"] = "UC_LosAngeles.txt";
+    filenames["UCSB"] = "UC_Santa Barbara.txt"; 
+    filenames["UCSD"] = "UC_San Diego.txt"; 
+    filenames["UCD"] = "UC_Davis.txt"; 
+    filenames["UCI"] = "UC_Irvine.txt";  // need to add all
 
     vector<string> v_fstring = filenames.keys();
 
@@ -138,7 +148,7 @@ int main()
         fin.close();
     }
     //----------------------------------------------------------------------------------------------------------------------------------------------------
-    
+
 
     // sort and store
     vector<vector<string>> v_majors;
@@ -153,66 +163,49 @@ int main()
         vectorBubbleSorting(v_majors.at(i));
     }
 
+    while(true)
+    {
+        // user interface begins
+        vector<string> v_major = displayMajorInfo(schools, v_majors, v_fstring);
 
-    // user interface begins
-    menu(schools, v_majors, v_fstring);
-    
+        string keyword;
+        cout << "\nEnter The Number to Look Specific Information(Q/q to Quit): ";
+        getline(cin, keyword);
+        int num = atoi(keyword.c_str());
+        specificInfo(schools, v_major.at(num * 2 - 2), v_major.at(num * 2 - 1)); // array, school, major
+
+        cout << "1. Check Required Course" << endl;
+        cout << "2. Check My GPA" << endl;
+        cout << "Enter Q/q to Quit: ";
+
+        double gpa;
+        while (true)
+        {
+            string choice;
+            getline(cin, choice);
+            if (choice == "Q" || choice == "q")
+                return 0;
+            // else if (choice == "1")
+            //     showRequired();
+            else if (choice == "2")
+            {
+                cout << "\nEnter your GPA: ";
+                getline(cin, keyword);
+                gpa = atof(keyword.c_str());
+                checkMyGpa(gpa, schools[v_major.at(num * 2 - 2)][v_major.at(num * 2 - 1)]);
+                break;
+            }
+        }
+    }
+
     cout << "\n\n    GOOD BYE ! \n\n";
 
     return 0;
 }
 
 
-
-int menu(AssociativeArray<string, AssociativeArray<string, Major>>& schools, vector<vector<string>>& v_majors, vector<string> v_fstring)
-{
-    cout << "------------------------" << endl;
-    cout << "1. Search Major" << endl;
-    cout << "2. Check Required Course" << endl;
-    cout << "3. Check My GPA" << endl;
-    cout << "4. QUIT" << endl;
-    cout << "------------------------" << endl;
-
-    int choice;
-    do
-    {
-        cout << "\nEnter a number(1-5):  ";
-        choice = 0;
-        string buf = string();
-        getline(cin, buf);
-        choice = atoi(buf.c_str());
-        
-    }while (choice < 0 || choice > 5);
-
-    switch(choice)
-    {
-        case 1:
-            displayMajorInfo(schools, v_majors, v_fstring);
-            break;
-        case 2:
-            
-        case 3:
-            cout << "NOT VALIABLE" << endl;
-            break;
-        case 4:
-            return 1;
-    }
-
-    cout << "Enter Q/q to Quit: ";
-    string buf;
-    getline(cin, buf);
-    if(buf == "Q" || buf == "q")
-    {
-        return 1;
-    }else
-    {
-        menu(schools, v_majors, v_fstring);
-    }
-}
-
-
 // show major info by every school
-void displayMajorInfo(AssociativeArray<string, AssociativeArray<string, Major>>& array, vector<vector<string>>& v_majors, vector<string> univName) 
+vector<string> displayMajorInfo(AssociativeArray<string, AssociativeArray<string, Major>>& array, vector<vector<string>>& v_majors, vector<string> univNames) 
 {
     string tempmajor;
     cout << "Enter Name of Major: ";
@@ -228,8 +221,8 @@ void displayMajorInfo(AssociativeArray<string, AssociativeArray<string, Major>>&
     vector<string> mlist;
 
     vector<vector<string>> major2D = v_majors;
-    vector<string> temp_UnivName = univName;
-    for(int i = 0; i < major2D.size(); i++)
+    vector<string> temp_UnivName = univNames;
+    for(int i = 0; i < univNames.size(); i++)
     {   
         cout << "\n" << temp_UnivName.at(i) << ":" << endl;
         for(int j = 0; j < v_majors.at(i).size(); j++){
@@ -241,10 +234,7 @@ void displayMajorInfo(AssociativeArray<string, AssociativeArray<string, Major>>&
             }
         }
     }
-    cout << "\nEnter The Number to Look Specific Information(Q/q to Quit): ";
-    getline(cin, keyword);
-    int choice = atoi(keyword.c_str());
-    specificInfo(array, mlist.at(choice*2),mlist.at(choice*2-1));
+    return mlist;
 }
 
 // sort vector
@@ -316,24 +306,38 @@ void specificInfo(AssociativeArray<string, AssociativeArray<string, Major>>& arr
     }else{
       cout << array[school][major].enrollNum << endl;
     }
-    cout << setw(45) << "" << "   Admit Rate:   ";
+    cout << setw(45) << "" << "   Admit Rate:  ";
     if(array[school][major].admitRate == "masked")
     {
         cout << "masked" << endl;
     }else{
-      cout << array[school][major].admitRate << endl;
+        cout.precision(2);
+      cout << atof(array[school][major].admitRate.c_str()) * 100 << "%" << endl;
     }
-    cout << setw(45) << "" << "   Yield Rate:   ";
+    cout << setw(45) << "" << "   Yield Rate:  ";
     if(array[school][major].yieldRate == "masked")
     {
         cout << "masked" << endl;
     }else{
-      cout << array[school][major].yieldRate << endl;
+        cout.precision(2);
+      cout << atof(array[school][major].yieldRate.c_str()) * 100 << "%" << endl;
     }
     
 }
 
-void checkMyGpa(double myGpa)
+void checkMyGpa(double myGpa, Major major)
 {
+    if(myGpa > major.admitGpaHigh)
+        cout << "You are in perfect shape";
+    else if(myGpa > major.admitGpaLow)
+        cout << "Keep maintaining your GPA";
+    else
+        cout << "Put effort in your PIQ essay";
 
+    cout << endl << endl;
+}
+
+void showRequired()
+{
+    
 }
