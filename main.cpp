@@ -1,5 +1,3 @@
-// Group 4
-
 #include <iostream>
 #include <string>
 using namespace std;
@@ -394,7 +392,7 @@ vector<string> findMajor(string schoolName, char alphabet) {
 	fin.open(schoolName + ".txt");
 
 	if (!fin.good()) {
-		cout << "I/O error: Wrong school name" << endl << end;
+		cout << "I/O error: Wrong school name" << endl << endl;
 		return vector<string>();
 	}
 
@@ -439,5 +437,3 @@ void printRequiremnet(string major) {
 	}
 	cout << endl << endl;
 }
-
-
